@@ -1,2 +1,3 @@
 Horarios linea 1,2,3 fuente por https://metromonterrey.com/horario-metro-monterrey/
+Velocidad media y Velocidad maxima de los trenes por https://es.wikipedia.org/wiki/Metrorrey
 

@@ -1,0 +1,406 @@
+{
+    "estaciones":{
+        "Talleres": {
+            "nombre": "Talleres",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 1,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "San Bernabé": {
+            "nombre": "San Bernabé",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 2,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Unidad Modelo": {
+            "nombre": "Unidad Modelo",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 3,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Aztlán": {
+            "nombre": "Aztlán",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 4,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Penitenciaria": {
+            "nombre": "Penitenciaria",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 5,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Alfonso Reyes": {
+            "nombre": "Alfonso Reyes",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 6,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Mitras": {
+            "nombre": "Mitras",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 7,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Simon Bolívar": {
+            "nombre": "Simón Bolívar",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 8,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Hospital": {
+            "nombre": "Hospital",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 9,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Edison": {
+            "nombre": "Edison",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 10,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Central": {
+            "nombre": "Central",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 11,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Cuauhtémoc": {
+            "nombre": "Cuauhtémoc",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1,2],
+            "id": 12,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Del Golfo": {
+            "nombre": "Del Golfo",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 13,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Felix U. Gómez": {
+            "nombre": "Felix U. Gómez",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1,3],
+            "id": 14,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Parque Fundidora": {
+            "nombre": "Parque Fundidora",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 15,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Y Griega": {
+            "nombre": "Y Griega",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 16,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Eloy Cavazos": {
+            "nombre": "Eloy Cavazos",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 17,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Lerdo de Tejeda": {
+            "nombre": "Lerdo de Tejeda",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 18,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Exposición": {
+            "nombre": "Exposición",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [1],
+            "id": 19,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Sendero": {
+            "nombre": "Sendero",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 20,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Santiago Tapia": {
+            "nombre": "Santiago Tapia",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 21,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "San Nicolás": {
+            "nombre": "San Nicolás",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 22,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Anáhuac": {
+            "nombre": "Anáhuac",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 23,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Universidad": {
+            "nombre": "Universidad",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 24,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Niños Heroes": {
+            "nombre": "Niños Héroes",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 25,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Regina": {
+            "nombre": "Regina",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 26,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "General Anaya": {
+            "nombre": "General Anaya",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 27,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Alameda": {
+            "nombre": "Alameda",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 28,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Fundadores": {
+            "nombre": "Fundadores",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 29,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Padre Mier": {
+            "nombre": "Padre Mier",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2],
+            "id": 30,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "General I. Zaragoza": {
+            "nombre": "General I. Zaragoza",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [2, 3],
+            "id": 31,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Santa Lucía": {
+            "nombre": "Santa Lucía",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 32,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Colonia Obrera": {
+            "nombre": "Colonia Obrera",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 33,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Felix U. Gómez": {
+            "nombre": "Felix U. Gómez",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 34,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Metalúrgicos": {
+            "nombre": "Metalúrgicos",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 35,   
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Colonia Moderna": {
+            "nombre": "Colonia Moderna",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 36,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Ruiz Cortines": {
+            "nombre": "Ruiz Cortines",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 37,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Los Ángeles": {
+            "nombre": "Los Ángeles",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 38,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        },
+        "Hospital Metropolitano": {
+            "nombre": "Hospital Metropolitano",
+            "descripcion": "Estación de tren ubicada en Monterrey",
+            "linea": [3],
+            "id": 39,
+            "coordenadas": {
+                "latitud": -34.6118,
+                "longitud": -58.4173
+            }
+        }
+
+
+    },
+    
+    "tren":{
+        "velocidadMax": 70,
+        "velocidadMedia": 30,
+        "unidades": "km/h",
+        "fuente": "https://es.wikipedia.org/wiki/Metrorrey"
+    }
+
+
+
+}
