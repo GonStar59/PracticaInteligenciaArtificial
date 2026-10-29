@@ -39,7 +39,8 @@ def A_estrella(inicio, meta, grafo):
             #en este caso es un nodo nuevo que habra que añadir a la lista abierta lo añadimos entonces 
             #pueden ocuurrir varias cosas este nodo ya tiene un costecalculado si el nuevo coste es mayor se ignora el nuevo si es menor se actualiza el coste su g y su anterior y hay que eliminar el anterior de la lista abierta y añadir el nuevo
             #Python es una mierda y no tiene su heap la funcion de change key asi que nos buscamos la vida o buscamos otra libreria con un heap de verdad y no la mierda de libreria esatndar de python 
-
+            #esat funcionalidad creo recordad que se programo en AED pero como dudo que podamos modificar la libreria de python para añadir a buscarse la vida
+            #Me parece qfatal que en vez de programarla su opcion dada por la libreria official sea dejar la basusra ahi y marcarla como obsoleta 
 
             #este es todo el algoritmo en el fondo asi que fin .
 

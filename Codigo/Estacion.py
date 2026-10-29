@@ -24,6 +24,10 @@ class Estacion:
 
     #Definimos comparacion de esatciones dependiendo de su coste muy simple pero es necesario para las librerias como heap
     def __lt__(self, other):
+        if self.coste == other.coste: #para que no haya empates es por asegurar cada uo tien id distintos asi que perfecto
+            return self.id < other.id
+
+
         return self.coste < other.coste
 
     def setG(self, g):
